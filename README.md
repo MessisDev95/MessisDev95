@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-Hi there! I'm a dedicated technology student from Brazil 🇧🇷, currently pursuing a degree in ** Analysis and Development of Systems (ADS)**. My core skills include **Java**, **HTML & CSS**, **Python**, and **JavaScript**, with a strong and growing focus on backend development.
+Hi there! I'm a dedicated technology student from Brazil 🇧🇷, currently pursuing a degree in **Analysis and Development of Systems (ADS)**. My core skills include **Java**, **HTML & CSS**, **Python**, and **JavaScript**, with a strong and growing focus on backend development.
 
 I've also worked with technologies like **React Native**, **Bootstrap**, and **PostgreSQL**, which have enhanced my experience in both frontend and backend development.
 
