@@ -26,7 +26,7 @@ Minimalist, dedicated, and always eager to learn.
 
 ### 👋 Sobre Mim
 
-Olá! Sou um estudante dedicado de tecnologia do Brasil 🇧🇷, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho como principais habilidades **Java**, **HTML & CSS**, **Python** e **JavaScript**, com um foco cada vez maior no desenvolvimento backend.
+Olá! Sou um estudante dedicado de tecnologia do Brasil 🇧🇷, atualmente cursando **Sistemas de informação (SI)**. Tenho como principais habilidades **Java**, **HTML & CSS**, **Python** e **JavaScript**, com um foco cada vez maior no desenvolvimento backend.
 
 Já tive experiências com tecnologias como **React Native**, **Bootstrap** e **PostgreSQL**, o que ampliou minha vivência tanto no frontend quanto no backend.
 
